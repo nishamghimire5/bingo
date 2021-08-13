@@ -1,0 +1,31 @@
+#win {
+    background-color: rgb(115, 206, 255);
+    font-size: 20px;
+}
+
+
+#button {
+    background: #355C7D;
+    color:rgb(18, 230, 212);
+    font-size: 22px;
+}
+
+#button:hover {
+    background:#00ABF0;
+}
+
+#button:active {
+    background:rgb(89, 104, 235);
+    font-size: 22px;
+}
+
+#gridbtn, #gridlabel {
+    color: rgba(4, 34, 22, 0.774);
+    font-size: 25px;
+}
+
+#testlabel {
+    font-family: cascadia font;
+    font-size: 29px;
+    color:rgb(30, 158, 83);
+}
