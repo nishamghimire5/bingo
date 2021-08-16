@@ -1,12 +1,15 @@
 #win {
-    background-color: rgb(115, 206, 255);
+    background-color: #73ceff;
     font-size: 20px;
 }
 
+#mainBox{
+    background-color: white;
+}
 
 #button {
     background: #355C7D;
-    color:rgb(18, 230, 212);
+    color:#12e6d4;
     font-size: 22px;
 }
 
@@ -15,17 +18,11 @@
 }
 
 #button:active {
-    background:rgb(89, 104, 235);
+    background:#5968eb;
     font-size: 22px;
 }
 
 #gridbtn, #gridlabel {
-    color: rgba(4, 34, 22, 0.774);
+    color: #042216c5;
     font-size: 25px;
-}
-
-#testlabel {
-    font-family: cascadia font;
-    font-size: 29px;
-    color:rgb(30, 158, 83);
 }
