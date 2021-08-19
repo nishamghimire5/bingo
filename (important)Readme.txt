@@ -1,3 +1,5 @@
+*******************************************************************************
+
 This application uses GTK to design the graphical user interface.
 
 It will not compile in a system that doesn't have GTK installed, specifically, GTK4.
